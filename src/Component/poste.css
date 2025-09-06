@@ -1,0 +1,10 @@
+.div_{
+  padding: 5px;  
+  background-color: rgb(82, 12, 12);
+  border: 2px solid sienna;
+  width: 400px;
+}
+ img{
+    width: 370px;
+    height: 320px;
+ }
